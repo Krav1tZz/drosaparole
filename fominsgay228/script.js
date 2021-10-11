@@ -3,7 +3,7 @@ let b = prompt('b: ');
 let c = prompt("c: ");
 
 if(a == 0) {
-    alert("ti eblo?");
+    alert("nav kvadratvienadojums");
 }
 
 let D = b*b-4*a*c;
@@ -14,7 +14,7 @@ if( D == 0){
 }
 
 else if (D < 0) {
-    alert("ti eblo?");
+    alert("nav saknes");
 }
 
 else {
